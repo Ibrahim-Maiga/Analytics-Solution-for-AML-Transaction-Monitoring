@@ -1,1 +1,1 @@
-![image](https://raw.githubusercontent.com/Ibrahim-Maiga/ETL-Pipeline-For-Migrating-Processing-And-Querying-AML-Transactions/AML Project Architecture Diagram.png)
+![image](https://github.com/Ibrahim-Maiga/ETL-Pipeline-For-Migrating-Processing-And-Querying-AML-Transactions/blob/main/AML%20Project%20Architecture%20Diagram.png)
