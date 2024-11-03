@@ -1,1 +1,1 @@
-![image](AML Project Architecture Diagram.pdf)
+![image](AML Project Architecture Diagram.png)
